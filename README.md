@@ -6,7 +6,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-SingleDay&show_icons=true&theme=tokyonight)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={guswhddlf11@gmail.com})](https://solved.ac/{guswhddlf11})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=guswhddlf11)](https://solved.ac/guswhddlf11/)
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
